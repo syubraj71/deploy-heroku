@@ -1,2 +1,2 @@
 # deploy-heroku
-deploying heroic
+Deploy an Image Classification Model on Heroku
